@@ -1,4 +1,4 @@
-module github.com/elteg/trycatch
+module github.com/eltneg/trycatch
 
 go 1.18
 
